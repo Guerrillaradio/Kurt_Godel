@@ -10,5 +10,5 @@
 <p>"había descubierto lo que parecía ser un límite ontológico más allá del cual no se podía pensar"
 <p>
 <p>  
-<div><font color="#fff300"></font></div><div></div><div><font color="#fff300"> </font><font color="#fff300"> </font></div>
-<a href="https://es.wikipedia.org/wiki/Ontolog%C3%ADa"><div><font color="#fff300">ontología</font></div><div></div><div><font color="#fff300"> </font><font color="#fff300"> </font></div></a>
+<div><font color="#00ff00"></font></div><div></div><div><font color="#00ff00"> </font><font color="#00ff00"> </font></div>
+<a href="https://es.wikipedia.org/wiki/Ontolog%C3%ADa"><div><font color="#00ff00">ontología</font></div><div></div><div><font color="#00ff00"> </font><font color="#00ff00"> </font></div></a>
