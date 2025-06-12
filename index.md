@@ -11,4 +11,4 @@
 <p>
 <p>  
 <div><font color="#fff300"></font></div><div></div><div><font color="#fff300"> </font><font color="#fff300"> </font></div>
-<a href="https://es.wikipedia.org/wiki/Ontolog%C3%ADa"><div><font color="#fff300">ontología</font></div><div></div><div><font color="#fff300"> </font><font color="#fff300"> </font></div>/a>
+<a href="https://es.wikipedia.org/wiki/Ontolog%C3%ADa"><div><font color="#fff300">ontología</font></div><div></div><div><font color="#fff300"> </font><font color="#fff300"> </font></div></a>
