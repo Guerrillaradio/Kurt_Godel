@@ -1,8 +1,8 @@
               
 <p>Kurt Gödel
                                            
-<p>«Yo cre-creo que podemos po-po-postular, de-de-de-dentro de cualquier sistema formal
-<p>co-coconsistente, un enunciado que es ve-ve-ve-ve…verdadero, pero que-que-que
+<p>«Yo cre-creo que podemos po-po-postular, de-de-de-dentro de cualquier sistema
+<p>formal co-coconsistente, un enunciado que es ve-ve-ve-ve…verdadero, pero que-que-que
 <p>no se puede probar con las reglas de ese mismo sistema»
 <p>
 <p>
